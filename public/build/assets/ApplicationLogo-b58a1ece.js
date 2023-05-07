@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-c27b6911.js";import{o as c,f as t}from"./app-935e5f77.js";const e={},r={src:"/logo.png",alt:"Logo"};function n(s,_){return c(),t("img",r)}const p=o(e,[["render",n]]);export{p as A};
